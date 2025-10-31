@@ -11,7 +11,7 @@ int main () {
     scanf("%d", &a);
 
     int power = pow(a,b);
-    printf("power is : 100 %d \n", power);
+    printf("power is : %d \n", power);
     printf(" \thello world");
     return 0;
 }
