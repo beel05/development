@@ -15,5 +15,4 @@ int main () {
         printf("it is not devisible. \n");
     }
     return 0;
-
 }

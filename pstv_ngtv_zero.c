@@ -1,3 +1,4 @@
+// checking wether num is zero,+ve or -ve. //
 #include <stdio.h>
 int main () {
     int num;
